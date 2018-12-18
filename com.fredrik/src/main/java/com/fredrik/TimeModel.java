@@ -2,6 +2,7 @@ package com.fredrik;
 
 import java.util.Calendar;
 
+
 public class TimeModel {
 	
 	public TimeModel(){}
